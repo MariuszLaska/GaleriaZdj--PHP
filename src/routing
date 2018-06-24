@@ -1,0 +1,8 @@
+<?php
+$routing=[
+    '/' => 'main',
+    '/gallery' => 'gallery_view',
+    '/view' => 'photo_view',
+    '/newuser' => 'new_user_view',
+    '/pview' => 'private_photo_view'
+    ];
