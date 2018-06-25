@@ -1,11 +1,2 @@
 # GaleriaZdj--PHP
-# GaleriaZdj--PHP
-# GaleriaZdj--PHP
-# GaleriaZdj--PHP
-# GaleriaZdj--PHP
-# SymulatorSwiata-Python
-# SymulatorSwiata-Python
-# SymulatorSwiata-Python
-# SymulatorSwiata-Python
-# SymulatorSwiata-Python
-# SymulatorSwiata-Python
+Galeria zdjęć napisana w PHP w MVC. Pozwala na dodawanie zdjęć do bazy danych MongoDB. Pozwala tworzyć użytników, rozróżniać ich oraz obsługuje mechanizm sesji.
